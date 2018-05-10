@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.message-panel {
+  max-width: 700px;
+  padding: 20px;
+  box-sizing: border-box;
+  border: solid 1px #ccc;
+  margin: 20px auto;
+}
+
+.message {
+  display: block;
+  padding: 8px 15px;
+  border: solid 1px #ccc;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.message p {
+  margin: 0 0 5px 0;
+}
+
+.message p span {
+  color: rgba(0,0,0,0.5);
+}
+
+.first-party {
+  text-align: right;
+  background: aliceblue;
+}
+
+.second-party {
+  text-align: left;
+  background: cornsilk;
+}

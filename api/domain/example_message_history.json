@@ -1,0 +1,30 @@
+[
+    {
+        "message_id": "17620efe-25c0-4a8b-8ffc-7547bf7cbb2d",
+        "sender_id": "3a756c31-05c4-45a9-8b98-eb097221c786",
+        "receiver_id": "67f225e2-1fd6-45cc-87ce-b6bc305a084a",
+        "message_text": "Hey, I was wondering if the house has a water meter?",
+        "received_time": "2018-05-09T17:30:50+00:00"
+    },
+    {
+        "message_id": "984d190c-c10a-4535-b440-89be9c317528",
+        "sender_id": "67f225e2-1fd6-45cc-87ce-b6bc305a084a",
+        "receiver_id": "3a756c31-05c4-45a9-8b98-eb097221c786",
+        "message_text": "Hi there. No, it does not. Is that a dealbreaker for you?",
+        "received_time": "2018-05-09T17:31:50+00:00"
+    },
+    {
+        "message_id": "4ae88cd4-af85-4ed5-876b-f6bb6c075568",
+        "sender_id": "3a756c31-05c4-45a9-8b98-eb097221c786",
+        "receiver_id": "67f225e2-1fd6-45cc-87ce-b6bc305a084a",
+        "message_text": "Thanks for replying. Not really, I just wondered. Are there many people interested?",
+        "received_time": "2018-05-09T17:32:50+00:00"
+    },
+    {
+        "message_id": "03b79594-5942-43ce-b2e1-b5b67c12975d",
+        "sender_id": "67f225e2-1fd6-45cc-87ce-b6bc305a084a",
+        "receiver_id": "3a756c31-05c4-45a9-8b98-eb097221c786",
+        "message_text": "Seems so, we have had a few viewings already!",
+        "received_time": "2018-05-09T17:33:50+00:00"
+    }
+]
